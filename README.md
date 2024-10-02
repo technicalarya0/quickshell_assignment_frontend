@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 Created by :- Unmesh Arya.\
-This is a assignment project [Hosted Link](kanbandone01.netlify.app).
+This is a assignment project [Hosted Link](https://kanbandone01.netlify.app).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
